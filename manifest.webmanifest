@@ -1,0 +1,17 @@
+{
+  "name": "積み上げノート",
+  "short_name": "積み上げ",
+  "description": "FPの振り返り・KPI・日報を毎日積み上げるノート",
+  "lang": "ja",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C222B",
+  "theme_color": "#1C222B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
